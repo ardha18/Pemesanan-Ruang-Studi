@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646728694022",
+    "project_id": "pemesanan-ruang-studi",
+    "storage_bucket": "pemesanan-ruang-studi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646728694022:android:717bdaeed48119e269c687",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFSekQ_ezbQIY3jKC2PW9h-w5RiLf4DkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
